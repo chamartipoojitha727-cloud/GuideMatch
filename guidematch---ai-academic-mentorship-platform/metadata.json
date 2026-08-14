@@ -1,0 +1,6 @@
+{
+  "name": "GuideMatch - AI Academic Mentorship Platform",
+  "description": "AI-powered academic mentorship matching platform connecting students with faculty guides based on research domains, tech stacks, and project complexity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
